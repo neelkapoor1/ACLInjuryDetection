@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+opencv-python
+Pillow
+scikit-image
+matplotlib

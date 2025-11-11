@@ -1,3 +1,4 @@
-archive/
+.venv
+venv/
 *.pck
-.DS_Store
+archive/
